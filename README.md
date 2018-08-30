@@ -1,6 +1,7 @@
 这是关于学习pyspark的一些笔记，参考资料《Python+Spark2.0+hadoop机器学习与大数据实战  林大贵著》，如有兴趣请自行搜索购买正版书籍！
 
 说明：
+
 	1、本项目下的代码为jupter notebook，请确保自己已正确连接spark和hadoop
 	2、sc和spark实例已自动生成
 	3、本代码的运行环境是下Hadoop 2.7,spark 2.3
