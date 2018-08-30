@@ -6,6 +6,7 @@
 	3、本代码的运行环境是下Hadoop 2.7,spark 2.3
 
 代码示例：
+
 	1、textfile=sc.textFile("file:/c:/f/test.txt")#本地文件注意路径书写格式file:
 	2、textfile=sc.textFile("hdfs:/hdfsfile/test/test.txt")#hdfs文件注意路径书写格式hdfs:
 	3、strRDD=sc.parallelize(list(('app','note','oran','app','grap')))
