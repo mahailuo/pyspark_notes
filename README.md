@@ -1,4 +1,5 @@
 这是关于学习pyspark的一些笔记，参考资料《Python+Spark2.0+hadoop机器学习与大数据实战  林大贵著》，如有兴趣请自行搜索购买正版书籍！
+请下载pyspark_learning_notes.ipynb，启用jupter notebook后读取
 
 说明：
 
